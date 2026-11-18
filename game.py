@@ -7,7 +7,10 @@ def create_player(name):
         "game_over": False,
         "won": False,
         "rested": False,
-        "beacon_lit": False
+        "beacon_lit": False,
+        "jungle_decision_made": False,
+        "cave_decision_made": False,
+        "bridge_decision_made": False,
     }
 
 
